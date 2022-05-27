@@ -19,5 +19,4 @@ src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&log
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 
-![](https://komarev.com/ghpvc/?username=Eran1801&style=flat-square)
-![](https://hit.yhype.me/github/profile?user_id=46644036)
+
