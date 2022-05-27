@@ -6,7 +6,7 @@
 
 📫 How to reach me: kirill.perevalov.1996@gmail.com
  
-<a href="https://https://www.linkedin.com/in/kirill-perevalov-709177216/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kirill-perevalov-709177216/" title="Linkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ### Languages and Tools:
 
